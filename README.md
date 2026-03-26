@@ -4,8 +4,6 @@ Código Python para uma Jukebox do Minecraft física usando Raspberry Pi 3
 
 **Feito por: Lucas (eu)** 
 
-**Com uma leve ajuda de: Matheus e Cauã :)**
-
 # Linguagens Utilizadas
 * Python
 
